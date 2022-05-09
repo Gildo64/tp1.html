@@ -1,0 +1,26 @@
+.p_header
+{
+    height: 60px;
+    background-color: red;
+}
+.p_aside
+{
+    height: 200px;
+    background-color: blue;
+    width: 100%;
+}
+.p_article
+{
+    height: 200px;
+    background-color: green;
+    width: 100%;
+}
+.p_footer
+{
+    height: 200px;
+    background-color: yellow;
+}
+.p_body
+{
+  display: flex; 
+}
